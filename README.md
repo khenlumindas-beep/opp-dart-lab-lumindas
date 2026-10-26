@@ -1,6 +1,6 @@
 # opp-dart-lab-lumindas
 
-**Name:** Khen L. Lumindas
+**Name:** Khen L. Lumindas**
 **Course & Section:** BSIT 3
 **Activity:** Laboratory Activity No. 1 — Version Control with GitHub & Object-Oriented Programming in Dart
 
